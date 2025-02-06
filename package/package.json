@@ -1,0 +1,32 @@
+{
+  "name": "tree-gen",
+  "version": "1.0.0",
+  "description": "A simple and powerful CLI tool to generate a tree-like structure of a directory and its contents.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "tree-gen": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI",
+    "directory",
+    "tree",
+    "file-structure",
+    "tree-generator",
+    "file-generator",
+    "directory-visualization"
+  ],
+  "author": "Mohammad Khakshoor",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadkhakshoor/tree-gen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mohammadkhakshoor/tree-gen/issues"
+  },
+  "homepage": "https://github.com/mohammadkhakshoor/tree-gen#readme"
+}
