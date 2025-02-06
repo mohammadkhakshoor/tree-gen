@@ -1,0 +1,29 @@
+{
+  "name": "tree-lens",
+  "version": "1.0.2",
+  "description": "A simple and powerful CLI tool to generate a tree-like structure of a directory and its contents.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "tree-lens": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CLI",
+    "directory",
+    "tree",
+    "file-structure",
+    "tree-generator",
+    "file-generator",
+    "directory-visualization"
+  ],
+  "author": "Mohammad Khakshoor",
+  "license": "MIT",
+  "repository": "https://github.com/mohammadkhakshoor/tree-lens.git",
+  "bugs": {
+    "url": "https://github.com/mohammadkhakshoor/tree-lens/issues"
+  },
+  "homepage": "https://github.com/mohammadkhakshoor/tree-lens#readme"
+}
