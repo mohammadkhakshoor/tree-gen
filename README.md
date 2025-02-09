@@ -18,6 +18,11 @@ Install `tree-lens` globally using npm:
 ```sh
 npm install -g tree-lens
 ```
+Or you can use it directly without installing on you machine using `npx`:
+
+```sh
+npx tree-lens ./ --A
+```
 
 ## 📌 Usage
 
